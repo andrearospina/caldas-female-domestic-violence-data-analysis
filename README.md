@@ -11,7 +11,7 @@ Tal y como ocurre en este caso. Donde tomando un dataset (desde sitio web Kaggle
 3.	¿Con qué tipo de arma fueron maltratadas? 
 4.	¿Cuál es su grupo etario? 
 5.	¿Cuáles son los municipios de Caldas con mayor número de casos? 
-6.	¿Cuál es el total de casos registrados desde el 2016 al 2021? 
+6.	¿Cuál fue el total de casos registrados desde el 2016 al 2021? 
 
 
 ---
